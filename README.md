@@ -1,2 +1,2 @@
 # HearTheDrums
-Extracting Drum sounds with Variational Autoencoders
+Extracting Drum Sounds with Variational Autoencoders
