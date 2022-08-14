@@ -22,4 +22,4 @@
 
 **논문 & 코드 요약**
 - **Paper Title** : "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"
-- **Notes** : 
+- **Notes** : https://www.notion.so/Extracting-Drum-Sounds-with-Magenta-s-GrooVAE-d5f93cba0f3843009ec6ea39fde0e4a6
