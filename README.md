@@ -18,5 +18,5 @@
 ---
 
 **논문 & 코드 요약**
-- Paper Title : "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"**
-- Notes : 
+- **Paper Title** : "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"
+- **Notes** : 
