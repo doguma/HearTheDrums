@@ -7,7 +7,8 @@ Train & Test Dataset : [Groove MIDI Dataset](https://magenta.tensorflow.org/data
 
 VAE Model : [Magenta's GrooVAE](https://github.com/magenta/magenta/tree/main/magenta/models/music_vae)
 
-Google Colab Hardware accelerator : TPU
+Google Colab Hardware Setting : TPU
+
 Code Reference : Magenta's [MusicVAE.ipynb](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb)
 
 Tensorflow Version : 2.9.1
