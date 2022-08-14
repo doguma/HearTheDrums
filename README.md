@@ -1,5 +1,5 @@
 # HearTheDrums
-### "Extracting Drum Sounds with Magenta's GrooVAE"
+### "Extracting Drum Sounds with Magenta's MusicVAE"
 
 **Train & Test Dataset** : [Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)
  -  *Jon Gillick, Adam Roberts, Jesse Engel, Douglas Eck, and David Bamman. "Learning to Groove with Inverse Sequence Transformations." International Conference on Machine Learning (ICML), 2019.*
@@ -22,4 +22,4 @@
 
 **논문 & 코드 요약**
 - **Paper Title** : "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"
-- **Notes** : https://www.notion.so/Extracting-Drum-Sounds-with-Magenta-s-GrooVAE-d5f93cba0f3843009ec6ea39fde0e4a6
+- **Notes (노션)** : https://www.notion.so/Extracting-Drum-Sounds-with-Magenta-s-GrooVAE-d5f93cba0f3843009ec6ea39fde0e4a6
