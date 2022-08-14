@@ -13,7 +13,9 @@
 **Contents**
 - **Code** : Test_Project_Extracting_drums_from_MIDI_files.ipynb
 - **Test Input File** :  input-rock-beat-midi.mid  (3_rock_105_beat_4-4.mid)
-- **Test Output File** : output-interpolated-midi.mid
+- **Test Output File** 
+ - Generated samples (.mid) : drums_2bar_nade_full_sample_0, drums_2bar_oh_hikl_sample_0, drums_2bar_nade_reduced_sample_0, drums_2bar_oh_lokl_sample_0
+ - Generated interpolation sample - drums_2bar_nade_full, beat 3-4, temp 0.5, num_steps 13 (.mid) : output-interpolated-midi
 
 ---
 
