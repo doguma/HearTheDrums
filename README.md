@@ -14,3 +14,7 @@
 - Code : Test_Project_Extracting_drums_from_MIDI_files.ipynb
 - Test Input File :  input-rock-beat-midi.mid  (3_rock_105_beat_4-4.mid)
 - Test Output File : output-interpolated-midi.mid
+
+**관련 논문 정리**
+- Paper Title : "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"
+- Notes : 
