@@ -5,9 +5,7 @@
  -  *Jon Gillick, Adam Roberts, Jesse Engel, Douglas Eck, and David Bamman. "Learning to Groove with Inverse Sequence Transformations." International Conference on Machine Learning (ICML), 2019.*
  -  Sample file used for test output :  3_rock_105_beat_4-4.mid
 
-**VAE Model** : [Magenta's MusicVAE/GrooVAE](https://github.com/magenta/magenta/tree/main/magenta/models/music_vae)
-
-**Code Reference** : Magenta's [MusicVAE.ipynb](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb)
+**Model/Code Reference** : Magenta's [MusicVAE.ipynb](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb)
 
 - Google Colab Hardware Setting : TPU
 
