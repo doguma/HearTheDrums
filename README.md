@@ -15,5 +15,8 @@
 - **Test Input File** :  input-rock-beat-midi.mid  (3_rock_105_beat_4-4.mid)
 - **Test Output File** : output-interpolated-midi.mid
 
-**"A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"**
+---
+
+**논문 & 코드 요약**
+- Paper Title : "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music"**
 - Notes : 
